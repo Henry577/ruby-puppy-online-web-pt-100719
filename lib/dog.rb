@@ -14,4 +14,12 @@ class Dog
     
   end
   
+  def self.print_all
+    
+    for item in @@all do 
+      
+      puts item
+      
+    end
+  
 end
