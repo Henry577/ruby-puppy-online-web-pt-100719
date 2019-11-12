@@ -18,7 +18,7 @@ class Dog
     
     for item in @@all do 
       
-      puts item
+      puts item.name
       
     end
     
